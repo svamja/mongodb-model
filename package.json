@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-model",
+  "name": "nodejs-mongodb-model",
   "version": "1.0.0",
   "description": "A thin Model around MongoDB collections with easy bulk, pagination and lookup operations",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svamja/mongodb-model.git"
+    "url": "git+https://github.com/svamja/nodejs-mongodb-model.git"
   },
   "author": "Sanjay Vamja",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/svamja/mongodb-model/issues"
+    "url": "https://github.com/svamja/nodejs-mongodb-model/issues"
   },
-  "homepage": "https://github.com/svamja/mongodb-model#readme",
+  "homepage": "https://github.com/svamja/nodejs-mongodb-model#readme",
   "dependencies": {
     "lodash": "^4.17.21",
     "mongodb": "^3.6.5"
