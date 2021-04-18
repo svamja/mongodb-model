@@ -1,6 +1,6 @@
 {
   "name": "nodejs-mongodb-model",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A thin Model around MongoDB collections with easy bulk, pagination and lookup operations",
   "main": "index.js",
   "directories": {
